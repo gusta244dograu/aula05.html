@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,15 +14,15 @@
 
         <h2>Login</h2>
         Usuário: <br>
-        <imput type="text" name="Usuário" placeholder="Usuário">
+        <input type="text" name="Usuário" placeholder="Usuário">
         <br>
         <br>
-        senha:
-        <imput type="text" name="Senha">
+        senha:<br>
+        <input type="password" name="Senha">
         <br>
         <br>
 
-        <imput type="button" name="Logar">
+        <input type="button" name="Logar" value="logar">
         <br>
 
     </center>
